@@ -1,0 +1,19 @@
+{
+  "name": "sujinnelson2k",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.html",
+  "scripts": {
+    "build": "sass --style=compressed assets/scss:assets/css",
+    "watch": "sass --watch assets/scss:assets/css"
+  },
+  "keywords": [
+    "sass",
+    "css"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.69.0"
+  }
+}
